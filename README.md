@@ -1,6 +1,6 @@
 # yourwish
 
-This is a sample Git project.
+This is a teja thota.
 
 ## Features
 - Easy to use
