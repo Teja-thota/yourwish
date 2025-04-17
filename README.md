@@ -8,4 +8,5 @@
 
 ## Author
 Teja Thota
+[GitHub Profile](https://github.com/Teja-thota)
 
